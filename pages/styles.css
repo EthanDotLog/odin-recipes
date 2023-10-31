@@ -1,0 +1,43 @@
+html {
+    font-family: 'Merienda', cursive;
+}
+body {
+    background-color: rgb(240, 229, 209);
+    text-align: center;
+    color: rgb(41, 17, 7);
+}
+h1 {
+    font-size: 50px;
+}
+
+img {
+    width: 50%;
+}
+
+
+a {
+    color: rgb(81, 44, 241);
+}
+
+p {
+    font-size: 12px;
+    margin-bottom: 60px;
+}
+    
+
+
+ul {
+    list-style: none;
+    margin-bottom: 75px;
+}
+ul li {
+    margin-left: -40px;
+    margin-bottom: 4px;
+}
+
+ol {
+    text-align: left;
+}
+ol li {
+    margin-bottom: 12px;
+}

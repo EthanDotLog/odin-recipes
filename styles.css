@@ -1,0 +1,32 @@
+html {
+    font-family: 'Merienda', cursive;
+}
+body {
+    background-color: rgb(240, 229, 209);
+    text-align: center;
+    color: rgb(41, 17, 7);
+}
+
+#hero-txt {
+    font-size: 50px;
+}
+#hero-img {
+    width: 50%;
+}
+
+#subtxt {
+    font-size: 25px;
+    margin-bottom: 60px;
+}
+
+#list-container {
+    list-style: none;
+}
+
+.recipes {
+    color: rgb(81, 44, 241);
+    font-size: 20px;
+}
+li {
+    margin-bottom: 15px;
+}
